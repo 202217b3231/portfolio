@@ -1,5 +1,5 @@
 ## 📖 About Me
-Hello! I'm Himanshu, a  with a keen interest in development. I love to explore new challenges and create innovative solutions. 
+Hello! I'm Himanshu, with a keen interest in development. I love to explore new challenges and create innovative solutions. 
 
 ### 📬 Contact Information
 - 📧 Email:
